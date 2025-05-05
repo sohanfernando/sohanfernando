@@ -5,7 +5,7 @@
 
 - 👨‍💻 My portfolio [https://sohandev.vercel.app](https://sohandev.vercel.app)
 
-- 💬 Ask me about **React and Spring Boot**
+- 💬 Ask me about **Java, Spring Boot and MERN Stack**
 
 - 📫 How to reach me **sohanfernando7@gmail.com**
 
