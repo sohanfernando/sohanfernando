@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sohan Fernando</h1>
-<h3 align="center">A passionate Full-Stack Developer specializing React and Spring Boot</h3>
+<h3 align="center">A passionate Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohanfernando&label=Profile%20views&color=0e75b6&style=flat" alt="sohanfernando" /> </p>
 
 - 👨‍💻 My portfolio [https://sohandev.vercel.app](https://sohandev.vercel.app)
 
-- 💬 Ask me about **Java, Spring Boot and MERN Stack**
+- 💬 Ask me about **Java, Spring Boot, Nodejs, Nextjs and MERN Stack**
 
 - 📫 How to reach me **sohanfernando7@gmail.com**
 
